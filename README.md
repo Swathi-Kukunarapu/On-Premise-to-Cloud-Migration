@@ -18,3 +18,8 @@ This project involves migrating data from an on-premise MySQL database to the Az
 **Cloud Platform:** Azure
 **Programming Languages:** SQL, pyspark
 **Additional Tools:** Tableau
+
+**Architecture**
+
+![image](https://github.com/Swathi-Kukunarapu/On_Premise_to_Cloud_Migration/assets/148832761/8b23ebf9-354c-4d54-8204-3fa4a7db7ed1)
+
